@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/pablopelardas.cevue-lj7ncdcz-fork-lj7ng27t",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve H552Qwyh7pXNZpWtUNH8 --open"
+  }
+}
